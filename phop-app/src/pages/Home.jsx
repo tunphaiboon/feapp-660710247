@@ -1,3 +1,9 @@
+import React from "react";
+import { Link } from "react-router-dom";
+
+import { movies } from '../data/data';
+
+import MovieCard from "../componence/MovieCard";
 function Home() {
   return (
     <div className="p-8 text-center">
