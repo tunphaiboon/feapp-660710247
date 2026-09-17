@@ -5,3 +5,4 @@ function MovieList() {
     </main>
   );
 }
+export default Movielist;
